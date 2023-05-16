@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+My name is Mihail Petrov and I am SoftUni student.👨🏻‍🎓
+I live in Sliven(Bulgaria).
 <!--
 **mpetrov08/mpetrov08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
